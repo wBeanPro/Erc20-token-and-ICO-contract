@@ -23,9 +23,8 @@ Fork it and do your thing. Or get in touch with me and we can figure something o
 
 ### Authors
 
-* **Stephen Hall** - *Initial work* - [halls7588](https://github.com/halls7588)
+* **Stephen Hall** - *Initial work* - [woobinpro](https://github.com/woobinpro)
 
-See also the list of [contributors]( https://github.com/halls7588/ERC20-Token-and-ICO-Contract/graphs/contributors) who participated in this project.
 
 ### License
 
